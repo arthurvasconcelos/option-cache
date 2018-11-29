@@ -32,7 +32,6 @@
     "get-value": "^2.0.6",
     "has-value": "^1.0.0",
     "kind-of": "^3.2.2",
-    "lazy-cache": "^2.0.2",
     "set-value": "^1.0.0",
     "to-object-path": "^0.3.0"
   },
